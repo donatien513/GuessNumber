@@ -1,8 +1,10 @@
 import React from 'react'
+import Input from '~/components/Input'
 
 const Home = () => {
   return <div>
-    Hello
+    Enter your guess
+    <Input />
   </div>
 }
 

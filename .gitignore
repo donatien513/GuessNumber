@@ -1,4 +1,5 @@
 // .gitnignore
+yarn.lock
 # next.js build output
 .next
 out
